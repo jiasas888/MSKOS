@@ -1,4 +1,7 @@
 # MSKOS
+
+![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888/MSKOS/total)
+
 此应用是一个系统模拟框架以技术测试ui界面
 ## 迭代
 * 2026.4.26在MSOS 6开发期间更名MSKOS 1，此新系统是使用Kotlin制作
